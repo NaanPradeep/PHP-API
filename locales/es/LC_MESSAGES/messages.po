@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-21 17:27+0530\n"
+"PO-Revision-Date: 2021-06-22 09:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: create_user.php\n"
+"X-Poedit-SearchPath-1: forgot_password.php\n"
+"X-Poedit-SearchPath-2: login.php\n"
+"X-Poedit-SearchPath-3: regenerate_verify_link.php\n"
+"X-Poedit-SearchPath-4: reset-password.php\n"
+"X-Poedit-SearchPath-5: verify_user.php\n"
+"X-Poedit-SearchPath-6: update_account_info.php\n"
+
+#: create_user.php:99
+msgid "Account created successfully"
+msgstr "Cuenta creada con éxito"
+
+#: create_user.php:127
+msgid ""
+"Account created successfully and verification email has been sent to your "
+"email"
+msgstr ""
+
+#: create_user.php:138
+msgid "Couldn't send an email to your email address"
+msgstr ""
+"No se pudo enviar un correo electrónico a su dirección de correo electrónico."
+
+#: create_user.php:152
+msgid "Email already exists and linked with another account"
+msgstr "El correo electrónico ya existe y está vinculado con otra cuenta"
+
+#: create_user.php:160
+msgid "Registration Failed"
+msgstr "Registro fallido"
+
+#: forgot_password.php:45
+msgid "Password Request Link"
+msgstr "Enlace de solicitud de contraseña"
+
+#: forgot_password.php:68
+msgid "Password reset link has been sent to your email."
+msgstr ""
+"Se ha enviado un enlace para restablecer la contraseña a su dirección de "
+"correo electrónico."
+
+#: forgot_password.php:78
+msgid "Couldn't send an email. Please check your email address"
+msgstr ""
+"No se pudo enviar un correo electrónico. Por favor, compruebe su dirección "
+"de correo electrónico"
+
+#: forgot_password.php:90
+msgid "Your email address is not registered in our record."
+msgstr ""
+"Su dirección de correo electrónico no está registrada en nuestro registro."
+
+#: login.php:76
+msgid "Successful login."
+msgstr "Acceso exitoso."
+
+#: login.php:95
+msgid "Login successfull"
+msgstr "Inicio de sesión exitoso"
+
+#: login.php:109
+msgid "Your email does not exists"
+msgstr "Tu correo electrónico no existe"
+
+#: login.php:118 reset-password.php:78
+msgid "Invalid credentials"
+msgstr "Credenciales no válidas"
+
+#: regenerate_verify_link.php:64
+msgid "Email Verification"
+msgstr "verificacion de email"
+
+#: regenerate_verify_link.php:89
+msgid "Verification email has been successfully sent to your email."
+msgstr ""
+"El correo electrónico de verificación se envió correctamente a su correo "
+"electrónico."
+
+#: regenerate_verify_link.php:98
+msgid "Unable to send email, please check your email address"
+msgstr ""
+"No se pudo enviar un correo electrónico. Por favor, compruebe su dirección "
+"de correo electrónico"
+
+#: regenerate_verify_link.php:111
+msgid "Email does not exist in our record"
+msgstr ""
+"Su dirección de correo electrónico no está registrada en nuestro registro."
+
+#: regenerate_verify_link.php:123 verify_user.php:96
+msgid "Access denied."
+msgstr "Acceso denegado."
+
+#: reset-password.php:49
+msgid "Your password has been successfully changed"
+msgstr "su contraseña ha sido cambiada exitosamente"
+
+#: reset-password.php:58
+msgid "Your password reset request failed"
+msgstr "Tu solicitud de restablecimiento de contraseña falló"
+
+#: reset-password.php:68
+msgid "Your password reset link was expired"
+msgstr "Su enlace de restablecimiento de contraseña venció"
+
+#: verify_user.php:68
+msgid "Your email verification is complete"
+msgstr "Se completó la verificación de su correo electrónico"
+
+#: verify_user.php:81
+msgid "Your email verification failed"
+msgstr "Tu verificación de correo electrónico falló"
+
+#: update_account_info.php:60
+msgid "Account Preference updated successfully."
+msgstr "Preferencia de cuenta actualizada correctamente."
+
+#: update_account_info.php:68
+msgid "Account updates failed"
+msgstr "Las actualizaciones de la cuenta fallaron"
